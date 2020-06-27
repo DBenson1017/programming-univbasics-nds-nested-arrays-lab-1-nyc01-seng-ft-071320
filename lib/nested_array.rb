@@ -22,6 +22,11 @@ CONVENTIONAL_PRODUCE = [
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
 
 def assembled_matrix
+  assembled_matrix = [
+    CONVENTIONAL_PRODUCE,
+    ORGANIC_PRODUCE
+    ]
+    
 
 end
 
